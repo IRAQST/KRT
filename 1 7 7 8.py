@@ -173,7 +173,7 @@ tred = speed
 
 os.system('espeak -a 300 " Welcome,   to,  1778,   Tools"')
 time.sleep(2)
-os.system(f'xdg-open https://t.me/MR_HC6')
+os.system(f'xdg-open https://t.me/PUEA79')
 logo=("""
 \x1b[92;1m 
       
