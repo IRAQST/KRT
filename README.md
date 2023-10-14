@@ -17,6 +17,9 @@ For Questions Telegram: https://t.me/mafyaxa
 
 >> python 1 7 7 8.py
 
+## Run commands one by one
+```
+
 - 👋 Hi, I’m GOLD
 - 👀 متعمد ماشفرها
 - 🌱 لاتنسا حقوق
