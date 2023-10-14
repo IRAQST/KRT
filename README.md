@@ -15,7 +15,7 @@ For Questions Telegram: https://t.me/PUEA79
 
 >> cd KRT
 
->> python 1 7 7 8.py
+>> python '1 7 7 8.py'
 
 ## Run commands one by one
 ```
